@@ -1,0 +1,13 @@
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073023] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073276] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073482] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073489] User 1000 read from file descriptor 4 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073537] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073808] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.073838] User 1000 read from file descriptor 4 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.074099] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.074168] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.074374] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.074391] User 1000 read from file descriptor 4 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.074557] User 1000 read from file descriptor 7 and the read was clean!
+Jan 29 13:47:15 ubuntu kernel: [ 1810.074665] User 1000 read from file descriptor 4 and the read was clean!

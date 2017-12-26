@@ -1,0 +1,44 @@
+Calling Test 1
+syscall returned
+looking at children
+looking at siblings
+looking at parents
+Parent PID is: 13257
+Parent PID is: 13405
+Parent PID is: 13398
+Parent PID is: 2733
+Parent PID is: 1638
+Parent PID is: 1184
+Parent PID is: 1
+Calling test 2
+syscall returned
+looking at children
+Child PID is: 13259
+looking at siblings
+looking at parents
+Parent PID is: 13258
+Parent PID is: 13257
+Parent PID is: 13405
+Parent PID is: 13398
+Parent PID is: 2733
+Parent PID is: 1638
+Parent PID is: 1184
+Parent PID is: 1
+Parent PID is: 1
+Parent PID is: 582
+Calling test 3
+syscall returned
+looking at children
+Child PID is: 13260
+looking at siblings
+looking at parents
+Parent PID is: 13259
+Parent PID is: 13258
+Parent PID is: 13257
+Parent PID is: 13405
+Parent PID is: 13398
+Parent PID is: 2733
+Parent PID is: 1638
+Parent PID is: 1184
+Parent PID is: 1
+
